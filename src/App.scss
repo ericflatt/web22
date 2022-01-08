@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@900&display=swap');
+
+.App {
+  background-image: url("./images/neon.jpg");
+  background-size: 100%;
+}
+
+::-webkit-scrollbar{
+  display: none;
+}
+
+.App-header {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  backdrop-filter: blur(80px);
+  font-family: 'Nunito', sans-serif;
+  font-style: italic;
+}
+
+.container{
+  padding:0.01em 36px;
+}
