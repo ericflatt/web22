@@ -1,6 +1,6 @@
 import "./App.scss";
 import About from "./components/about";
-import Marquees from "./components/marquee";
+// import Marquees from "./components/marquee";
 
 function App() {
   return (
