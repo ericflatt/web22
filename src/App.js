@@ -1,5 +1,5 @@
 import "./App.scss";
-import About from "./components/about";
+// import About from "./components/about";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faInstagram, faLinkedinIn, faTwitter } from "@fortawesome/free-brands-svg-icons";
 
@@ -20,7 +20,7 @@ function App() {
         </div>
       </header>
 
-      <About />
+      {/* <About /> */}
     </div>
   );
 }
