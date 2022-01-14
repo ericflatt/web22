@@ -1,6 +1,5 @@
 import "./App.scss";
 import About from "./components/about";
-// import Marquees from "./components/marquee";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faInstagram, faLinkedinIn, faTwitter } from "@fortawesome/free-brands-svg-icons";
 
@@ -22,7 +21,6 @@ function App() {
       </header>
 
       <About />
-      {/* <Marquees /> */}
     </div>
   );
 }
