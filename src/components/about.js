@@ -43,7 +43,7 @@ window.onclick = function(event) {
   render() {
     return (
   <div>
-<button className="about" id="myBtn">About</button>
+<div className="about" id="myBtn">About</div>
 
 {/* <!-- The Modal --> */}
 <div id="myModal" className="modal">
