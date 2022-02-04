@@ -24,9 +24,9 @@ function App() {
           Funko.
         </p>
         <div className="social-icons">
-         <a href="https://instagram.com/eric_flatt" target="blank"> <FontAwesomeIcon icon={faInstagram} size="lg" /> </a>
-         <a href="https://twitter.com/__flatt" target="blank"> <FontAwesomeIcon icon={faTwitter} size="lg" /> </a>
-         <a href="https://linkedin.com/in/ericbflatt" target="blank"> <FontAwesomeIcon icon={faLinkedinIn} size="lg" /> </a>
+         <a href="https://instagram.com/eric_flatt" target="blank"> <FontAwesomeIcon className="icon-hover" icon={faInstagram} size="lg" /> </a>
+         <a href="https://twitter.com/__flatt" target="blank"> <FontAwesomeIcon className="icon-hover" icon={faTwitter} size="lg" /> </a>
+         <a href="https://linkedin.com/in/ericbflatt" target="blank"> <FontAwesomeIcon className="icon-hover" icon={faLinkedinIn} size="lg" /> </a>
         </div>
       </header>
 

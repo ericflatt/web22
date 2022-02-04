@@ -1,7 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@900&display=swap');
 
 body{
-  overflow-y: hidden;
+  overflow: hidden;
+}
+
+.icon-hover{
+  transition: .2s all ease;
+}
+
+.icon-hover:hover{
+    transition: .2s all ease;
+    color: rgb(40, 174, 236);
 }
 
 .App {
@@ -180,6 +189,13 @@ body{
     position: absolute !important;
     width: max-content;
   }
+
+  transition: .2s ease;
+}
+
+.about:hover{
+  transition: .2s ease-in-out;
+  color: rgb(40, 174, 236);
 }
 
 
@@ -199,6 +215,7 @@ body{
 .about-text{
     font-weight: 400;
     font-size: 21px;
+
 
     @media only screen and (max-width:1000px){
         font-size: 16px;
