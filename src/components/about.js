@@ -61,7 +61,7 @@ window.onclick = function(event) {
                   
                 </span>
                 , lover of all workplace comedies, cartoons, coffee, traveling
-                and music (not in any particular order). Currently I am a UI/UX designer on the Funko digital experience team as well as an aspiring moderator of the Bob's Burger's subreddit. Before that I was a creative tech
+                and music (not in any particular order). Currently I am a UI/UX designer on the <a target="blank" className="about-link" href="https://funko.com" >Funko</a> digital experience team as well as an aspiring moderator of the Bob's Burger's subreddit. Before that I was a creative tech
                 intern at{" "}
                 <a
                   className="about-link"
